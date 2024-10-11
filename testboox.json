@@ -1,0 +1,19 @@
+{
+  "downloads": [
+    {
+      "id": 1,
+      "judul": "Downloads Textbook 2015 Buku 1",
+      "url": "https://contoh.com/dokumen1.pdf"
+    },
+    {
+      "id": 2,
+      "judul": "Downloads Textbook 2015 Buku 2",
+      "url": "https://contoh.com/dokumen2.pdf"
+    },
+    {
+      "id": 3,
+      "judul": "Downloads Kosakata modul 60 bab",
+      "url": "https://contoh.com/dokumen3.pdf"
+    }
+  ]
+}
