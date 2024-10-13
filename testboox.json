@@ -17,8 +17,33 @@
     },
     {
       "id": 4,
-      "judul": "Coming--soon",
-      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kosakata_modul_60_bab.pdf"
+      "judul": "BILANGAN KOREA",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/BILANGAN KOREA.pdf"
+    },
+    {
+      "id": 5,
+      "judul": "Kamus Korea - Indonesia",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kamus Korea - Indonesia.pdf"
+    },
+    {
+      "id": 6,
+      "judul": "Kata Penghubung",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kata Penghubung.pdf"
+    },
+    {
+      "id": 7,
+      "judul": "Kata Sambung",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kata Sambung.pdf"
+    },
+    {
+      "id": 8,
+      "judul": "Kata Sifat 형용사",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kata Sifat 형용사.pdf"
+    },
+    {
+      "id": 9,
+      "judul": "Papan Rambu Transportasi",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Papan Rambu Transportasi.pdf"
     }
   ]
 }
