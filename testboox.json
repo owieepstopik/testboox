@@ -2,91 +2,101 @@
   "downloads": [
     {
       "id": 1,
+      "judul": "Textbook 2024 Buku 1 | Tampa Arti",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Textbook_HRD2024__Book1_kosongan.pdf"
+    },
+    {
+      "id": 2,
+      "judul": "Textbook 2024 Buku 2 | Tampa Arti",
+      "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Textbook_HRD2024_Book2_kosongan.pdf"
+    },
+    {
+      "id": 3,
       "judul": "Textbook 2015 Buku 1",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Textbook_HRD_2015__Bab_1_30.pdf"
     },
     {
-      "id": 2,
+      "id": 4,
       "judul": "Textbook 2015 Buku 2",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Textbook_HRD_Bab_31_60.pdf"
     },
     {
-      "id": 3,
+      "id": 5,
       "judul": "Kosakata modul 60 bab 2015",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kosakata_modul_60_bab_Lengkap.pdf"
     },
     {
-      "id": 4,
+      "id": 6,
       "judul": "Kosakata 60 bab Arti Kosong )",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kosakata_epstopik2015_arti_kosong.pdf"
     },
     {
-      "id": 5,
+      "id": 7,
       "judul": "60 ALAT DAN FUNGSI",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/60_ALAT_DAN_FUNGSI_1.pdf"
     },
     {
-      "id": 6,
+      "id": 8,
       "judul": "BILANGAN KOREA",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/BILANGAN_KOREA.pdf"
     },
     {
-      "id": 7,
+      "id": 9,
       "judul": "BUKU PAPAN RAMBU",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/BUKU_PAPAN_RAMBU.pdf"
     },
     {
-      "id": 8,
+      "id": 10,
       "judul": "Kamus Korea Indonesia",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kamus_Korea_Indonesia.pdf"
     },
     {
-      "id": 9,
+      "id": 11,
       "judul": "Kata Penghubung",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kata_Penghubung.pdf"
     },
     {
-      "id": 10,
+      "id": 12,
       "judul": "Kata Sambung",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kata_Sambung.pdf"
     },
     {
-      "id": 11,
+      "id": 13,
       "judul": "Kata Sifat 형용사",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Kata_Sifat_형용사.pdf"
     },
     {
-      "id": 12,
+      "id": 14,
       "judul": "Nama Satuan Benda",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Nama_Satuan_Benda.pdf"
     },
     {
-      "id": 13,
+      "id": 14,
       "judul": "Papan Rambu Peringatan",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Papan_Rambu_Peringatan.pdf"
     },
     {
-      "id": 14,
+      "id": 15,
       "judul": "Papan Rambu Transportasi",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/Papan_Rambu_Transportasi.pdf"
     },
     {
-      "id": 15,
+      "id": 16,
       "judul": "VITAMIN KOSAKATA.pdf",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/VITAMIN_KOSAKATA.pdf"
     },
     {
-      "id": 16,
+      "id": 17,
       "judul": "반대말",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/반대말.pdf"
     },
     {
-      "id": 17,
+      "id": 18,
       "judul": "관계있는 단어",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/관계있는단어.pdf"
     },
     {
-      "id": 18,
+      "id": 19,
       "judul": "비슷한말",
       "url": "https://raw.githubusercontent.com/owieepstopik/testboox/main/assets/비슷한말.pdf"
     }
